@@ -1,0 +1,1 @@
+!function(n){n.fn.e=function(t){var e=n.extend(e,t);return this.each(function(){n(this)})}}(jquery);
